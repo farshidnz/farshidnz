@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ## 💬 Connect with me : 
 <a href="https://www.linkedin.com/in/farshids/">
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="80"/>
 </a>
 
 <a href="mailto:shokoohi.farshid@gmail.com">
-  <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" width="80"/>
 </a>
 </p>
 <a href="https://www.buymeacoffee.com/farshidnz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
