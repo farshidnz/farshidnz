@@ -20,8 +20,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="120" height="120"/>&nbsp;
 
 ## :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=farshidnz&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farshidnz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">[![GitHub Streak](https://streak-stats.demolab.com/?user=farshidnz&theme=dark)](https://git.io/streak-stats)</p>
+<p align="left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farshidnz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</p>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=farshidnz&style=flat-square&color=blue" alt=""></p>
 
 
 ## 💬 Connect with me : 
