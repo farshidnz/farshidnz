@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 
 Here are some ideas to get you started:
@@ -18,8 +19,12 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCS" alt="GCS" width="120" height="120"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="120" height="120"/>&nbsp;
 
-## 💬 Connect with me : 
+## :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=farshidnz&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farshidnz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## 💬 Connect with me : 
 <a href="https://www.linkedin.com/in/farshids/">
   <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
 </a>
@@ -27,9 +32,9 @@ Here are some ideas to get you started:
 <a href="mailto:shokoohi.farshid@gmail.com">
   <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" width="40"/>
 </a>
-
-## :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=farshidnz&theme=dark)](https://git.io/streak-stats)
+</p>
+<a href="https://www.buymeacoffee.com/farshidnz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
