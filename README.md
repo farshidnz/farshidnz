@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 💬 Connect with me : 
 <a href="https://www.linkedin.com/in/farshids/">
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="80"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="50"/>
 </a>
 
 <a href="mailto:shokoohi.farshid@gmail.com">
