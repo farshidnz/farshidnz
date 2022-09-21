@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 </a>
 
 ## :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=farshidnz&theme=dark)](https://git.io/streak-stats)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
