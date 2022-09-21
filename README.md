@@ -18,6 +18,17 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCS" alt="GCS" width="120" height="120"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="120" height="120"/>&nbsp;
 
+## 💬 Connect with me : 
+
+<a href="https://www.linkedin.com/in/farshids/">
+  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
+</a>
+
+<a href="mailto:shokoohi.farshid@gmail.com">
+  <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" width="40"/>
+</a>
+ 
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
