@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 - 📫 Connect with me on my socials linked below 💬.
 - 🧍‍♂️ I enjoy football:soccer:, Travelling🧳 Exploring💡.
 - ⚡ Fun fact: I make the best taramasso 
+---
+
 ## 💼 Tech Stack
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="120" height="120"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="120" height="120"/>&nbsp;
@@ -18,13 +20,13 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="120" height="120"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GCS" alt="GCS" width="120" height="120"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="120" height="120"/>&nbsp;
+---
 
 ## :fire: My Stats :
-<p align="left">[![GitHub Streak](https://streak-stats.demolab.com/?user=farshidnz&theme=dark)](https://git.io/streak-stats)</p>
-<p align="left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farshidnz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</p>
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=farshidnz&style=flat-square&color=blue" alt=""></p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=farshidnz&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farshidnz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+---
 
 ## 💬 Connect with me : 
 <a href="https://www.linkedin.com/in/farshids/">
