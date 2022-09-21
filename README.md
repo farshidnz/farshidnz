@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🧍‍♂️ I enjoy football:soccer:, Travelling🧳 Exploring💡.
 - ⚡ Fun fact: I make the best taramasso 
 ## 💼 Tech Stack
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="120" height="120"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="120" height="120"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="120" height="120"/>&nbsp;
 
 <div id="header" align="center">
